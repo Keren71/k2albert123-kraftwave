@@ -6,7 +6,7 @@
 import CollectUserInfo from "./components/CollectUserInfo";
 import UserInfoForm from "./components/UserInfoForm";
 import Landing from "./components/Landing";
-import ChatBot from "./components/ChatBot";
+// import ChatBot from "./components/ChatBot";
 
 
 export default function Home() {
@@ -20,7 +20,7 @@ export default function Home() {
      {/* <DisabilitiesSelection/> */}
 
      <Landing/>
-     {/*<ChatBot/>*/}
+     {/* <ChatBot/> */}
      
     </div>
   );
