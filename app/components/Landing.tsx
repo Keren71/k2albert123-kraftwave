@@ -182,7 +182,7 @@ export default function Home() {
           <ul>
             <li>Features</li>
             <li>Blog</li>
-            <li>FAQ's</li>
+            <li>FAQ&apos;s</li>
           </ul>
         </div>
 
